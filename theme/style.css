@@ -1,7 +1,9 @@
 html, body {
-    margin: 10%;
+    margin: 1em;
     border: 0;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 100%;
     background-color: #ffffff;
+    background-image:repeating-linear-gradient(45deg, white, grey 50%);
     color: #000000;
   }
